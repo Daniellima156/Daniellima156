@@ -8,7 +8,7 @@ OLá Mundo!, Eu sou Daniel Lima.
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Daniellima156" />
 </a>
 
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/Daniellima156/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Daniellima156&layout=compact&langs_count=8&card_width=320" />
 </a>
 
@@ -18,6 +18,9 @@ OLá Mundo!, Eu sou Daniel Lima.
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+
+
+##
 
   <a href="https://www.linkedin.com/in/daniel-lima-42b1552b0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href = "mailto:daniellima.mb11@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
